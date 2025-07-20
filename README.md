@@ -1,4 +1,4 @@
- ##Data Analyst Certificate Collection
+## Data Analyst Certificate Collection
  
 Welcome to my Data Analyst Certificate Collection!
 This repository showcases the certifications I have earned on my journey to becoming a skilled data analyst. These certificates reflect my commitment to continuous learning and professional development in data analysis, statistics, visualization, and related tools.
@@ -35,6 +35,7 @@ Here are some notable certifications included:
 • SQL for Data Science (UCDAVIS - Coursera)
 
 • Power BI Professional Certificate (Microsoft - Coursera)
+
 
 📌 Purpose
 This collection serves as:
