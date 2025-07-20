@@ -1,4 +1,5 @@
- Data Analyst Certificate Collection
+ ##Data Analyst Certificate Collection
+ 
 Welcome to my Data Analyst Certificate Collection!
 This repository showcases the certifications I have earned on my journey to becoming a skilled data analyst. These certificates reflect my commitment to continuous learning and professional development in data analysis, statistics, visualization, and related tools.
 
@@ -28,8 +29,11 @@ Data Cleaning & Preprocessing
 Here are some notable certifications included:
 
 • Google Data Analytics Professional Certificate (Coursera)
+
 • Python for Data Science, AI & Development (IBM - Coursera)
+
 • SQL for Data Science (UCDAVIS - Coursera)
+
 • Power BI Professional Certificate (Microsoft - Coursera)
 
 📌 Purpose
